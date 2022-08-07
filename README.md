@@ -1,5 +1,6 @@
 # MACHINE_LEARNING-PROJECTS
 THIS FOLDER INCLUDES MACHINE-LEARNING PROJECTS.
+
 PROJECT-1:
 This project is based on predicting the "Yearly Amount Spent" by the customers in an E-commerce company using machine learning algorithms. 
 This also includes a few notions on which platform(application/website) people tend to buy more products.
