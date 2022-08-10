@@ -10,3 +10,8 @@ PROJECT-2:
 This project is based on data whether an user clicked a particular website.
 This includes some Exploratory Data Analysis, Data Preprocessing and Feature Engineering.
 This is developed using Logistic_Regression machine learning algorithm.
+
+PROJECT-3
+Given any random data and a Target-class, we need to design a Machine Learning model which takes the input data, learns from it and predict the correct 
+outcome for any future data. 
+For this purpose I used K-Nearest Neighbor Classifier, for this I designed an Elbow curve which gives us the optimal K-value to predict the correct class.
