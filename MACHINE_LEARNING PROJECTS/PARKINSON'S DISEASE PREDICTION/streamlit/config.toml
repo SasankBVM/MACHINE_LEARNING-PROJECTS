@@ -1,0 +1,7 @@
+[theme] # You have to add this line
+
+primaryColor = '#00FFFF' # Bright Orange
+backgroundColor = '#E3E3E3' # Dark Blue
+
+secondaryBackgroundColor = '#00FFFF' # Lighter Blue
+font = "Times New Roman"
