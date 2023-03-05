@@ -17,7 +17,7 @@ This project is based on predicting the "Yearly Amount Spent" by the customers i
 This also includes a few notions on which platform(application/website) people tend to buy more products.
 This is developed using Linear_Regression machine learning algorithm.
 
-PROJECT-4: RANDOMIZED DATA ANALYSIS USING KNN
+PROJECT-4: PARKINSON'S DISEASE PREDICTION
 
 This is a machine learning project to detect a neuro disorder named Parkinson's disease.
 Techniques to deal with Oversampling, Feature selection etc. are discussed in the project.
